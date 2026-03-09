@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{D5B1B033-4EB7-48A3-BE7F-072639C00AF1}|Double_Linked_List_Class_Project\\Double_Linked_List_Class_Project.vcxproj|solutionrelative:Double_Linked_List_Class_Project\\Double_Linked_List_Class_Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5B1B033-4EB7-48A3-BE7F-072639C00AF1}|Double_Linked_List_Class_Project\\Double_Linked_List_Class_Project.vcxproj|C:\\Users\\SMILE  2022\\source\\repos\\Double_Linked_List_Class_Project\\Double_Linked_List_Class_Project\\clsMyStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D5B1B033-4EB7-48A3-BE7F-072639C00AF1}|Double_Linked_List_Class_Project\\Double_Linked_List_Class_Project.vcxproj|solutionrelative:Double_Linked_List_Class_Project\\clsMyStack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D5B1B033-4EB7-48A3-BE7F-072639C00AF1}|Double_Linked_List_Class_Project\\Double_Linked_List_Class_Project.vcxproj|C:\\Users\\SMILE  2022\\source\\repos\\Double_Linked_List_Class_Project\\Double_Linked_List_Class_Project\\clsDynamicArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5B1B033-4EB7-48A3-BE7F-072639C00AF1}|Double_Linked_List_Class_Project\\Double_Linked_List_Class_Project.vcxproj|solutionrelative:Double_Linked_List_Class_Project\\clsDynamicArray.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,15 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "clsMyStack.h",
-              "DocumentMoniker": "C:\\Users\\SMILE  2022\\source\\repos\\Double_Linked_List_Class_Project\\Double_Linked_List_Class_Project\\clsMyStack.h",
-              "RelativeDocumentMoniker": "Double_Linked_List_Class_Project\\clsMyStack.h",
-              "ToolTip": "C:\\Users\\SMILE  2022\\source\\repos\\Double_Linked_List_Class_Project\\Double_Linked_List_Class_Project\\clsMyStack.h",
-              "RelativeToolTip": "Double_Linked_List_Class_Project\\clsMyStack.h",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Title": "clsDynamicArray.h",
+              "DocumentMoniker": "C:\\Users\\SMILE  2022\\source\\repos\\Double_Linked_List_Class_Project\\Double_Linked_List_Class_Project\\clsDynamicArray.h",
+              "RelativeDocumentMoniker": "Double_Linked_List_Class_Project\\clsDynamicArray.h",
+              "ToolTip": "C:\\Users\\SMILE  2022\\source\\repos\\Double_Linked_List_Class_Project\\Double_Linked_List_Class_Project\\clsDynamicArray.h",
+              "RelativeToolTip": "Double_Linked_List_Class_Project\\clsDynamicArray.h",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-05T06:51:08.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-06T14:13:22.37Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "Double_Linked_List_Class_Project\\Double_Linked_List_Class_Project.cpp",
               "ToolTip": "C:\\Users\\SMILE  2022\\source\\repos\\Double_Linked_List_Class_Project\\Double_Linked_List_Class_Project\\Double_Linked_List_Class_Project.cpp",
               "RelativeToolTip": "Double_Linked_List_Class_Project\\Double_Linked_List_Class_Project.cpp",
-              "ViewState": "AgIAACYAAAAAAAAAAAAcwC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-27T01:14:46.051Z",
               "EditorCaption": ""

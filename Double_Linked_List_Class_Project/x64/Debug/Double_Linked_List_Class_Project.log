@@ -1,7 +1,1 @@
-﻿  Double_Linked_List_Class_Project.cpp
-C:\Users\SMILE  2022\source\repos\Double_Linked_List_Class_Project\Double_Linked_List_Class_Project\clsMyQueue.h(1,8): warning C4081: expected 'identifier'; found '+'
-  (compiling source file 'Double_Linked_List_Class_Project.cpp')
-  
-C:\Users\SMILE  2022\source\repos\Double_Linked_List_Class_Project\Double_Linked_List_Class_Project\Double_Linked_List_Class_Project.cpp(25,10): warning C4129: 'B': unrecognized character escape sequence
-C:\Users\SMILE  2022\source\repos\Double_Linked_List_Class_Project\Double_Linked_List_Class_Project\Double_Linked_List_Class_Project.cpp(33,10): warning C4129: 'S': unrecognized character escape sequence
-  Double_Linked_List_Class_Project.vcxproj -> C:\Users\SMILE  2022\source\repos\Double_Linked_List_Class_Project\x64\Debug\Double_Linked_List_Class_Project.exe
+﻿LINK : fatal error LNK1104: cannot open file 'C:\Users\SMILE  2022\source\repos\Double_Linked_List_Class_Project\x64\Debug\Double_Linked_List_Class_Project.exe'
